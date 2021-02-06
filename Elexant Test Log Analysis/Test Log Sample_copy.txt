@@ -1,0 +1,6 @@
+2/3/2021_12:51:09 PM : TS1 verification passed.  Expected = 20.01 ohms, actual reading= 20.08 ohms.  (Pass range: 19.31 ohms to 20.71 ohms)
+2/3/2021_12:51:28 PM : TS1 verification failed.  Expected = 72.70 ohms, actual reading= 73.40 ohms.  (Pass range: 72.00 ohms to 73.40 ohms)
+2/3/2021_12:51:44 PM : TS1 verification passed.  Expected = 72.70 ohms, actual reading= 73.16 ohms.  (Pass range: 72.00 ohms to 73.40 ohms)
+2/3/2021_12:52:04 PM : TS1 verification passed.  Expected = 116.19 ohms, actual reading= 116.16 ohms.  (Pass range: 115.49 ohms to 116.89 ohms)
+2/3/2021_12:52:23 PM : TS1 verification passed.  Expected = 340.58 ohms, actual reading= 340.15 ohms.  (Pass range: 339.88 ohms to 341.28 ohms)
+2/3/2021_12:55:36 PM : TS1 verification passed.  Expected = 72.70 ohms, actual reading= 72.63 ohms.  (Pass range: 72.00 ohms to 73.40 ohms)
